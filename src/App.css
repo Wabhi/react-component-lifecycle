@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  align-items: center;
+}
+
+button{
+  margin: 12px;
+  background-color: brown;
+  color: aliceblue;
+}
+
+input{
+  background-color: black;
+  color: aliceblue;
+}
